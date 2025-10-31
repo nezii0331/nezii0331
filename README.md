@@ -21,38 +21,6 @@ Quiet learner, steadily building skills with patience and clarity.
 > _“Soft heart, strong focus, steady progress.”_
 
 ---
-
-### 🛠 Tech Stack
-
-| Category | Tools |
-|--------|------|
-**Backend** | <img src="https://img.icons8.com/color/28/java-coffee-cup-logo.png"/> Java · Spring Boot  
-**Data** | <img src="https://img.icons8.com/ios-filled/26/1B3D2F/python.png"/> Python · pandas · BeautifulSoup  
-**Database** | <img src="https://img.icons8.com/?size=26&id=38561&format=png&color=1B3D2F"/> MySQL · PostgreSQL  
-**Tools** | <img src="https://img.icons8.com/?size=26&id=62856&format=png&color=1B3D2F"/> Linux · GitHub Actions · Docker (learning)
-
-
-### 🛠 Tech Stack
-
-<img src="https://img.icons8.com/color/28/java-coffee-cup-logo.png"/> Java · Spring Boot  
-<img src="https://img.icons8.com/ios-filled/26/4B6043/python.png"/> Python · pandas · BeautifulSoup  
-<img src="https://img.icons8.com/ios-filled/26/4B6043/database.png"/> MySQL · PostgreSQL  
-<img src="https://img.icons8.com/ios-filled/26/4B6043/linux.png"/> Linux · GitHub Actions · Docker (learning)
-
-### 🌿 Tech Stack
-
-<img src="https://img.shields.io/badge/Java-eee?logo=openjdk&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/SpringBoot-eee?logo=springboot&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/Python-eee?logo=python&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/pandas-eee?logo=pandas&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-eee?logo=python&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/MySQL-eee?logo=mysql&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/PostgreSQL-eee?logo=postgresql&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/Linux-eee?logo=linux&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/Docker-eee?logo=docker&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/GitHubActions-eee?logo=githubactions&logoColor=4B6043"/>
-
-
 ### 🌿 Tech Stack
 
 <p>
