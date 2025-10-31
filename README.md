@@ -65,12 +65,13 @@ Quiet learner, steadily building skills with patience and clarity.
   <a href="mailto:nezii0331@gmail.com">
     <img src="https://img.icons8.com/emoji/36/cat-face.png" title="Email me 🐾"/>
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp; -->
   <a href="https://www.linkedin.com/in/pinru-cs" target="_blank">
     <img src="https://img.icons8.com/fluency/36/linkedin.png" title="LinkedIn ✨"/>
   </a>
 
-**Thank you for visiting my profile. ありがとう、見に来てくれて。🌿🌿**  
+** ありがとう、見に来てくれて。🌿🌿**  
+**Thank you for visiting my profile.** 
 _Quietly building. Constantly evolving._
 
 </div>
