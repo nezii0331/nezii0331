@@ -1,34 +1,69 @@
-## About me
+<div align="center">
 
-  -------------- 
-  < Hi! I'm Negi >
-  --------------
-        \\
-         \\
-          ^__^ <><> M<>>< ><<>><><><><><><><
-          (oo)\_______
-          (__)\       )\/\
-              ||-----||
-              ||     ||
+<img src="https://img.icons8.com/?size=100&id=111563&format=png&color=1B3D2F" width="90" alt="leaf icon"/>
 
-- 🎓 MSc Software Engineering (UoB)
-- 💻 Backend / Data in progress
-- 🌱 Learning：LeetCode、ETL、small backend project
+### 🌿 Fran Chen · 陳品儒  
+**Backend & Data Learner**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezii0331&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=nezii0331&theme=onedark&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+from Taiwan 🇹🇼 · MSc Software Engineering @ Bristol 🇬🇧  
+*quiet passion, steady growth*
 
+</div>
 
+---
+
+### 🧋 About me
+<img src="https://img.icons8.com/?size=30&id=23265&format=png&color=1B3D2F"/> 喜歡乾淨的工程架構與可維護程式碼  
+<img src="https://img.icons8.com/?size=30&id=3d2eZQag3sga&format=png&color=1B3D2F"/> Matcha、咖啡、散步、寫程式  
+<img src="https://img.icons8.com/?size=30&id=59857&format=png&color=1B3D2F"/> 想做有溫度的科技專案  
+<img src="https://img.icons8.com/?size=30&id=102249&format=png&color=1B3D2F"/> 每天 1% 成長
+
+> _「溫柔而堅定地變強。」_
+
+---
 
 ### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+| Field | Tools |
+|---|---|
+**Backend** | <img src="https://img.icons8.com/color/30/java-coffee-cup-logo.png"/> Java · Spring Boot  
+**Data** | <img src="https://img.icons8.com/?size=40&id=13441&format=png"/> Python · pandas · BeautifulSoup  
+**Database** | <img src="https://img.icons8.com/?size=30&id=38561&format=png&color=1B3D2F"/> MySQL · PostgreSQL  
+**Tools** | <img src="https://img.icons8.com/?size=30&id=62856&format=png"/> Linux · GitHub Actions · Docker(learning)
 
-### Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+---
+
+### 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+🏥 **Smart Hospital System** | BMI、角色權限、CRUD、CI  
+🐎 **HKJC Scraper** | Scrape → Clean → Validate → CSV  
+📘 **PKM App** | CLI 個人知識庫 × 單元測試
+
+---
+
+### 📈 Progress Insight
+
+<img src="https://github-readme-stats.vercel.app/api?username=nezii0331&show_icons=true&title_color=1b3d2f&text_color=1b3d2f&icon_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezii0331&layout=compact&title_color=1b3d2f&text_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="150" />
+
+---
+
+### 📬 Contact
+
+| | |
+|---|---|
+📧 Email | `nezii0331@gmail.com`  
+🔗 LinkedIn | [pinru-cs](https://www.linkedin.com/in/pinru-cs)
+
+---
+
+<div align="center">
+
+**ありがとう、見に来てくれて。🌿**  
+_Quietly building. Softly improving._
+
+<img src="https://img.icons8.com/?size=100&id=111563&format=png&color=1B3D2F" width="60"/>
+
+</div>
