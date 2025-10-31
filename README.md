@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://img.icons8.com/?size=100&id=111563&format=png&color=1B3D2F" width="90"/>
+<img src="https://img.icons8.com/ios-filled/100/384B3C/leaf.png" width="90"/>
 
-### 🌿 Fran Chen  
+### 🌿 Negi Chen  
 **Backend & Data Engineering Learner**
 
 Taiwan 🇹🇼 · MSc Software Engineering @ University of Bristol 🇬🇧  
@@ -67,7 +67,7 @@ Quiet learner, steadily building skills with patience and clarity.
 
 <img src="https://img.icons8.com/?size=90&id=111563&format=png&color=1B3D2F" width="60"/>
 
-**Thank you for visiting my profile. 🌿**  
+**Thank you for visiting my profile. ありがとう、見に来てくれて。🌿🌿**  
 _Quietly building. Constantly evolving._
 
 </div>
