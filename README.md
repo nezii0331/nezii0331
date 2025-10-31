@@ -64,14 +64,13 @@ Quiet learner, steadily building skills with patience and clarity.
 
 <div align="left">
   <a href="mailto:nezii0331@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/28/4B6043/new-post.png"/>
+    <img src="https://img.icons8.com/emoji/36/love-letter-emoji.png" alt="email" title="Email me 💌"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pinru-cs" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/28/4B6043/linkedin.png"/>
+    <img src="https://img.icons8.com/color/36/linkedin.png" alt="linkedin" title="LinkedIn ✨"/>
   </a>
 </div>
-
 
 
 ---
