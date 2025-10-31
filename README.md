@@ -31,6 +31,14 @@ Quiet learner, steadily building skills with patience and clarity.
 **Database** | <img src="https://img.icons8.com/?size=26&id=38561&format=png&color=1B3D2F"/> MySQL · PostgreSQL  
 **Tools** | <img src="https://img.icons8.com/?size=26&id=62856&format=png&color=1B3D2F"/> Linux · GitHub Actions · Docker (learning)
 
+
+### 🛠 Tech Stack
+
+<img src="https://img.icons8.com/color/28/java-coffee-cup-logo.png"/> Java · Spring Boot  
+<img src="https://img.icons8.com/ios-filled/26/4B6043/python.png"/> Python · pandas · BeautifulSoup  
+<img src="https://img.icons8.com/ios-filled/26/4B6043/database.png"/> MySQL · PostgreSQL  
+<img src="https://img.icons8.com/ios-filled/26/4B6043/linux.png"/> Linux · GitHub Actions · Docker (learning)
+
 ---
 
 ### 📂 Featured Projects
