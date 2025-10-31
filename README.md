@@ -62,10 +62,16 @@ Quiet learner, steadily building skills with patience and clarity.
 
 ### 📬 Contact
 
-| | |
-|---|---|
-📧 Email | `nezii0331@gmail.com`  
-🔗 LinkedIn | [pinru-cs](https://www.linkedin.com/in/pinru-cs)  
+<div align="left">
+  <a href="mailto:nezii0331@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/30/4B6043/mail.png" alt="email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pinru-cs" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/4B6043/linkedin.png" alt="linkedin"/>
+  </a>
+</div>
+
 
 ---
 
