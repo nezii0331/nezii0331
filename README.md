@@ -41,24 +41,16 @@ Quiet learner, steadily building skills with patience and clarity.
 
 ### 🌿 Tech Stack
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Java-eee?logo=openjdk&logoColor=4B6043" /> 
-<img src="https://img.shields.io/badge/Spring%20Boot-eee?logo=springboot&logoColor=4B6043" />
-
-<!-- Data -->
-<img src="https://img.shields.io/badge/Python-eee?logo=python&logoColor=4B6043" /> 
-<img src="https://img.shields.io/badge/pandas-eee?logo=pandas&logoColor=4B6043" /> 
-<img src="https://img.shields.io/badge/BeautifulSoup-eee?logo=python&logoColor=4B6043" />
-
-<!-- DB -->
-<img src="https://img.shields.io/badge/MySQL-eee?logo=mysql&logoColor=4B6043" /> 
-<img src="https://img.shields.io/badge/PostgreSQL-eee?logo=postgresql&logoColor=4B6043" />
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Linux-eee?logo=linux&logoColor=4B6043" />
-<img src="https://img.shields.io/badge/Docker-eee?logo=docker&logoColor=4B6043" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-eee?logo=githubactions&logoColor=4B6043" />
-
+<img src="https://img.shields.io/badge/Java-eee?logo=openjdk&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/SpringBoot-eee?logo=springboot&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/Python-eee?logo=python&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/pandas-eee?logo=pandas&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-eee?logo=python&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/MySQL-eee?logo=mysql&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/PostgreSQL-eee?logo=postgresql&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/Linux-eee?logo=linux&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/Docker-eee?logo=docker&logoColor=4B6043"/>
+<img src="https://img.shields.io/badge/GitHubActions-eee?logo=githubactions&logoColor=4B6043"/>
 
 ---
 
