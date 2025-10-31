@@ -17,7 +17,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nezii0331&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezii0331&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=nezii0331&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nezii0331&theme=onedark&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### 🛠 Tech Stack
