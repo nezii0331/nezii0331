@@ -61,6 +61,7 @@ Quiet learner, steadily building skills with patience and clarity.
 ---
 
 ### 📬 Contact
+<div align="center">
 
 <div align="left">
   <a href="mailto:nezii0331@gmail.com">
@@ -70,14 +71,6 @@ Quiet learner, steadily building skills with patience and clarity.
   <a href="https://www.linkedin.com/in/pinru-cs" target="_blank">
     <img src="https://img.icons8.com/fluency/36/linkedin.png" title="LinkedIn ✨"/>
   </a>
-</div>
-
-
----
-
-<div align="center">
-
-<img src="https://img.icons8.com/?size=90&id=111563&format=png&color=1B3D2F" width="60"/>
 
 **Thank you for visiting my profile. ありがとう、見に来てくれて。🌿🌿**  
 _Quietly building. Constantly evolving._
