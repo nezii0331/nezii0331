@@ -62,8 +62,6 @@ Quiet learner, steadily building skills with patience and clarity.
 
 ### 📬 Contact
 <div align="center">
-
-<div align="left">
   <a href="mailto:nezii0331@gmail.com">
     <img src="https://img.icons8.com/emoji/36/cat-face.png" title="Email me 🐾"/>
   </a>
