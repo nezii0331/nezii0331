@@ -1,10 +1,9 @@
 <!-- ===== Header ===== -->
 <div align="center">
 
-  <img src="https://img.icons8.com/ios-filled/100/384B3C/leaf.png" width="86" alt="leaf icon"/>
+  <img src="https://img.icons8.com/ios-filled/100/384B3C/leaf.png" width="66" alt="leaf icon"/>
 
   ###  Negi Chen
-  **Backend & Data Engineering Learner**
 
   <!-- Typing line -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=serif&weight=600&size=18&color=A6CE39&center=true&vCenter=true&lines=Welcome+to+my+GitHub+🌿;Learning,+building,+growing+🍃;Coding+with+matcha+and+cats+🧋🐱)](https://git.io/typing-svg)
