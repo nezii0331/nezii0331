@@ -1,7 +1,7 @@
 <!-- ===== Header ===== -->
 <div align="center">
 
-  <img src="https://img.icons8.com/ios-filled/100/384B3C/leaf.png" width="66" alt="leaf icon"/>
+  <!-- =====<img src="https://img.icons8.com/ios-filled/100/384B3C/leaf.png" width="66" alt="leaf icon"/> ===== -->
 
   ###  Negi Chen
 
