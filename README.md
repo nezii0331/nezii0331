@@ -7,9 +7,7 @@
   **Backend & Data Engineering Learner**
 
   <!-- Typing line -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=serif&weight=600&size=18&color=4B6043&center=true&vCenter=true&lines=Welcome+to+my+GitHub+🌿;Learning,+building,+growing+🍃;Coding+with+matcha+and+cats+🧋🐱" alt="typing banner"/>
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=serif&weight=600&size=18&color=4B6043&center=true&vCenter=true&lines=Welcome+to+my+GitHub+🌿;Learning,+building,+growing+🍃;Coding+with+matcha+and+cats+🧋🐱)](https://git.io/typing-svg)
 
 </div>
 
