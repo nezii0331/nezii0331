@@ -63,7 +63,7 @@ Activity Graph (full width, soft colors)
 
 <div align="center">
 
-**ありがとう、見に来てくれて。🌿**  
+<!-- =====**ありがとう、見に来てくれて。🌿**  ===== -->
 **Thank you for visiting my profile.**  
 _Quietly building. Constantly evolving._
 
