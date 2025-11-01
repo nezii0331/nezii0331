@@ -20,6 +20,8 @@ Quiet learner, steadily building skills with patience and clarity.
 
 > _“Soft heart, strong focus, steady progress.”_
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nezii0331&bg_color=ffffff&color=4B6043&line=4B6043&point=1B3D2F&area=true)
+
 ---
 ### 🌿 Tech Stack
 
