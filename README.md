@@ -40,17 +40,6 @@ Quiet learner, steadily building skills with patience and clarity.
 <img src="https://img.shields.io/badge/Thymeleaf-eee?logo=thymeleaf&logoColor=4B6043"/>
 </p>
 
-
----
-
-### 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-🏥 **Smart Hospital System** | Role-based auth, BMI calculation, CRUD, CI/CD  
-🐎 **HKJC Scraper** | Web scraping → data cleaning → structured export  
-📘 **PKM Java CLI App** | Personal knowledge management · CLI · JUnit testing  
-
 ---
 
 ### 📈 Activity & Stats
