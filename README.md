@@ -3,15 +3,12 @@
 <img src="https://img.icons8.com/ios-filled/100/384B3C/leaf.png" width="90"/>
 
 ### 🌿 Negi Chen  
-**Backend & Data Engineering Learner**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=serif&weight=600&size=18&color=4B6043&center=true&vCenter=true&lines=Welcome+to+my+GitHub+🌿;Learning,+building,+growing+🍃;Coding+with+matcha+and+cats+🧋🐱)](https://git.io/typing-svg)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nezii0331&bg_color=ffffff&color=4B6043&line=4B6043&point=1B3D2F&area=true)
 
 ---
-![github-garden](https://github.com/moritanian/pixel-garden/blob/main/garden.svg)
-![snake gif](https://github.com/nezii0331/nezii0331/blob/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Tech Stack
 
