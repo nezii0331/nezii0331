@@ -22,6 +22,14 @@ Activity Graph (full width, soft colors)
 ---
 ===== -->
 
+<!-- ===== Stats (two compact cards) ===== -->
+### 📈 Activity & Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nezii0331&show_icons=true&title_color=1b3d2f&text_color=1b3d2f&icon_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="150" alt="stats card"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezii0331&layout=compact&title_color=1b3d2f&text_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="150" alt="top languages"/>
+</div>
+
+---
 <!-- ===== Tech Stack (one tight row) ===== -->
 ### 🏆 Tech Stack
 <p align="center">
@@ -38,15 +46,6 @@ Activity Graph (full width, soft colors)
   <img src="https://img.shields.io/badge/GitHubActions-eee?logo=githubactions&logoColor=4B6043" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/React-eee?logo=react&logoColor=4B6043" alt="React"/>
 </p>
-
----
-
-<!-- ===== Stats (two compact cards) ===== -->
-### 📈 Activity & Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nezii0331&show_icons=true&title_color=1b3d2f&text_color=1b3d2f&icon_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="150" alt="stats card"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezii0331&layout=compact&title_color=1b3d2f&text_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="150" alt="top languages"/>
-</div>
 
 ---
 
