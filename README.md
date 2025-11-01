@@ -34,22 +34,6 @@ Quiet learner, steadily building skills with patience and clarity.
 <img src="https://img.shields.io/badge/Linux-eee?logo=linux&logoColor=4B6043"/>
 <img src="https://img.shields.io/badge/Docker-eee?logo=docker&logoColor=4B6043"/>
 <img src="https://img.shields.io/badge/GitHubActions-eee?logo=githubactions&logoColor=4B6043"/>
-</p>
-
----
-### 🌿 Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Java-eee?logo=openjdk&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/SpringBoot-eee?logo=springboot&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/Python-eee?logo=python&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/pandas-eee?logo=pandas&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-eee?logo=python&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/MySQL-eee?logo=mysql&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/PostgreSQL-eee?logo=postgresql&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/Linux-eee?logo=linux&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/Docker-eee?logo=docker&logoColor=4B6043"/>
-<img src="https://img.shields.io/badge/GitHubActions-eee?logo=githubactions&logoColor=4B6043"/>
 
 <!-- New additions below -->
 <img src="https://img.shields.io/badge/React-eee?logo=react&logoColor=4B6043"/>
