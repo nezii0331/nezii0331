@@ -12,14 +12,16 @@
 
 </div>
 
+<!-- ===== 
 ---
 
-<!-- ===== Activity Graph (full width, soft colors) ===== -->
+Activity Graph (full width, soft colors) 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nezii0331&bg_color=ffffff&color=4B6043&line=4B6043&point=1B3D2F&area=true" alt="activity graph" width="100%"/>
 </div>
 
 ---
+===== -->
 
 <!-- ===== Tech Stack (one tight row) ===== -->
 ### 🏆 Tech Stack
