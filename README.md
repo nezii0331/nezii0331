@@ -8,6 +8,10 @@
 
   <!-- Typing line -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=serif&weight=600&size=18&color=4B6043&center=true&vCenter=true&lines=Welcome+to+my+GitHub+🌿;Learning,+building,+growing+🍃;Coding+with+matcha+and+cats+🧋🐱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=serif&weight=600&size=20&pause=900&color=2B7A78&vCenter=true&center=true
+&lines=Welcome+to+my+GitHub+💻;Coding+gently,+growing+quietly+🌱;Matcha%2C+books%2C+and+cats+📚🐾)]()
+
 
 </div>
 
