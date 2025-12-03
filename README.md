@@ -6,9 +6,11 @@
   ###  Negi Chen
 
   <!-- Typing line -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=serif&weight=600&size=18&duration=3000&pause=1000&color=A6CE39&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+🌿;Learning,+building,+growing+🍃;Coding+with+matcha+and+cats+🧋🐱" alt="Typing SVG" />
-</a>
+ <!-- Typing line -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=serif&weight=600&size=18&color=A6CE39&center=true&vCenter=true&lines=Welcome+to+my+GitHub+🌿;Learning,+building,+growing+🍃;Coding+with+matcha+and+cats+🧋🐱)](https://git.io/typing-svg)
+
+
 
 </div>
 
