@@ -28,8 +28,8 @@ Activity Graph (full width, soft colors)
 <!-- ===== Stats (two compact cards) ===== -->
 ### 📈 Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nezii0331&show_icons=true&title_color=1b3d2f&text_color=1b3d2f&icon_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="165" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezii0331&layout=compact&title_color=1b3d2f&text_color=1b3d2f&hide_border=true&bg_color=f8f5ef" height="165" alt="top languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nezii0331&theme=vue" height="170" alt="profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nezii0331&theme=vue" height="170" alt="languages" />
 </div>
 
 ---
